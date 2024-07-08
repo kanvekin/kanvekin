@@ -1,9 +1,6 @@
 <!-- <div align="center"> -->
 
-<div dir="rtl">
-
-## زبان
-
+## Sprache
 <div align="center">
 
 [![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)
@@ -18,7 +15,8 @@
 
 </div>
 
-# پین های گیت هاب 🏆
+
+# GitHub Erfolge 🏆
 
 <br>
 
@@ -35,162 +33,162 @@
 
 <br>
 
-# چگونه پین های گیت هاب را دریافت کنیم
+# Erfolge & Anzeige 🏅
 
-## در این آموزش به شما مرحله به مرحله, آموزش گرفتن پین های گیت هاب آموزش داده میشود
+#### Achievements sind Pins, die GitHub als Belohnung für bestimmte Aktivitäten an Ihren GitHub-Account vergibt und die in Ihrem Profil zu sehen sind. Diese Errungenschaften verleihen Ihrem GitHub-Konto einen guten Effekt und können den Umfang Ihrer Aktivität und Ihre Aktivität anzeigen.
 
-### نکته ها:
+#### Sie können die Anzeige von Erfolgen in Ihrem Profil deaktivieren, indem Sie zu Ihrem gehen, [Profileinstellungen](https://github.com/settings).
 
-#### نکته 1: آموزش ها به در صفحه فعلی به صورت کلیات به شما داده میشود, در صورتی که آموزش بیشتر و تصویری نیاز بود. حتما بر روی دکمه نحوه دریافت در انتهای هر بخش کلیک کرده به صفحه آموزش قدم به قدم بروید.
-
-#### نکته 2: آموزش دریافت پین های گیت هاب, به صورت تصویری و قدم به قدم میباشد.
-
-#### نکته 3: در صورتی که درقسمت مشکل و ایرادی پیدا کردید و نیاز به تغییر در هر بخشی شاهد بودید لطفا آنرا به ما [گزارش](https://github.com/4xmen/Get-Github-Achievements/issues/new) کنید و مارا در بهبود هر چه بیشتر این کورس یاری کنید.
+#### Hier zeigen wir Ihnen Schritt für Schritt, wie Sie GitHub Achievement Pins erhalten :)
 
 <br>
 
-# پین ها و تنظیمات نمایش آن 🏅
+# So erhalten Sie GitHub-Erfolge
 
-#### دستاورد ها پین هایی هستند که گیت هاب به نسبت فعالیت هایی خاص به عنوان جایزه به اکانت گیت هاب شما اهدا میکند و در پروفایلتان قابل رویت است این دستاورد ها جلوه مناسبی به اکانت گیت هاب شما میدهد و میتواند نشانگر میزان فعالیت شما و چگونگی فعالیت شما باشد .
+## In diesem Kurs erfahren Sie Schritt für Schritt, wie Sie GitHub-Erfolge erzielen.
 
-#### می‌توانید با رفتن به [تنظیمات نمایه](https://github.com/settings) خود از نمایش دستاوردها در نمایه خود انصراف دهید.
+### Hinweis:
 
-#### در اینجا ما به شما نشان می دهیم که چگونه پین ​​دستاورد GitHub را گام به گام دریافت کنید :)
+#### Hinweis 1: Wenn Sie Probleme beim Erhalt von Erfolgen haben, können Sie die Schritt-für-Schritt-Schulung im Abschnitt zum Erhalt dieser Erfolge nutzen.
+
+#### Hinweis 2: Alle Tutorials sind mit Fotos versehen und jeder Schritt wird ausführlich erklärt.
+
+#### Hinweis 3: Wenn Sie Probleme oder Fehler finden, wenden Sie sich bitte an uns [Bericht](https://github.com/4xmen/Get-Github-Achievements/issues/new) es uns. Und helfen Sie uns, den Kurs zu verbessern.
 
 <br>
 
-# لیست پین ها 📃
+# Erfolgsliste 📃
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-fa/README.quickdraw-fa.md">
+<a href="assets/steps-de/README.quickdraw-de.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
 <hr>
 
-## چگونه پین Quickdraw را دریافت کنیم
+## So erhalten Sie den Quickdraw-Erfolg
 
-### این پین یکی از ساده ترین راه ها را برای دریافت دارد. و فقط با چند قدم می توانید آن را دریافت کنید. برای به دست آوردن این دستاورد باید . (بستن یک issue یا pull request را ظرف 5 دقیقه پس از باز کردن بست)
+### Quickdraw hat eine der einfachsten Möglichkeiten, und Sie können es erhalten, indem Sie nur ein paar Schritte unternehmen. Um diesen Erfolg zu erhalten, müssen Sie . (Issue/Pull-Request innerhalb von 5 Minuten nach Eröffnung geschlossen)
 
-#### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
+#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
 
-<div align="center"><a href="assets/steps-fa/README.quickdraw-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-de/README.quickdraw-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-fa/README.yolo-fa.md">
+<a href="assets/steps-de/README.yolo-de.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
 <hr>
 
-## چگونه پین Yolo را دریافت کنیم
+## So erhalten Sie den Yolo-Erfolg
 
-### این پین یکی از زیباترین پین های Github است که می تواند جلوه بسیار زیبایی به پروفایل Github شما بدهد. برای دریافت این پین، باید یک Pull Request را بدون بازبینی(ًReview) ادغام کنید.
+### Yolo ist eine der schönsten Errungenschaften von Github, die Ihrem Github-Profil einen sehr schönen Effekt verleihen kann. Um diesen Erfolg zu erhalten, müssen Sie eine Pull-Anforderung ohne Überprüfung zusammenführen.
 
-#### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
+#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
 
-<div align="center"><a href="assets/steps-fa/README.yolo-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-de/README.yolo-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-fa/README.galaxy-brain-fa.md">
+<a href="assets/steps-de/README.galaxy-brain-de.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
 <hr>
 
-## چگونه پین Galaxy Brain را دریافت کنیم
+## So erhalten Sie den Galaxy Brain Erfolg
 
-### دریافت Galaxy Brain نسبت به دو دستاورد قبلی دشوارتر است. و برای دریافت آن باید مراحلی را طی کنید که به سایر کاربران گیت هاب نیاز دارید. شما باید: به یک بحث پاسخ دهید (باید پاسخ شما به عنوان پاسخ به سوال توسط پرسشگر سوال دو مرتبه انتخاب شود.)
+### Galaxy Brain zu bekommen ist schwieriger als die beiden vorherigen Erfolge. Und um es zu erhalten, müssen Sie die Schritte durchlaufen, die Sie für andere GitHub-Benutzer benötigen. Sie müssen: eine Diskussion beantwortet haben (eine akzeptierte Antwort erhalten haben)
 
-#### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
+#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
 
-<div align="center"><a href="assets/steps-fa/README.galaxy-brain-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-de/README.galaxy-brain-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-fa/README.pull-shark-fa.md">
+<a href="assets/steps-de/README.pull-shark-de.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
 <hr>
 
-## چگونه پین Pull Shark را دریافت کنیم
+## So erhalten Sie den Pull Shark Erfolg
 
-### برای گرفتن پین pull shark باید 2 درخواست کشش ( Pull Request ) ادغام شده داشته باشید.
+### Um Pull Shark zu erhalten, müssen Sie 2 zusammengeführte Pull-Anforderungen stellen, Sie erhalten das One Pull Shark-Abzeichen.
 
-#### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
+#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
 
-<div align="center"><a href="assets/steps-fa/README.pull-shark-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-de/README.pull-shark-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-fa/README.starstruck-fa.md">
+<a href="assets/steps-de/README.starstruck-de.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
 <hr>
 
-## چگونه پین Starstruck را دریافت کنیم
+## So erhalten Sie den Starstruck-Erfolg
 
-### دریافت Starstruck بسیار ساده است و مراحل کمی برای دریافت Starstruck دارید. شما می توانید این دستاورد را زمانی دریافت کنید که یک مخزن در حساب شما به 16 ستاره برسد.
+### Es ist zu einfach, Starstruck Achievement zu erhalten, und Sie haben nur wenige Schritte, um Starstruck zu erhalten. Sie können diese Errungenschaft erhalten, wenn ein Repository auf Ihrem Konto 16 Sterne erreicht, selbst wenn es übertragen wurde, erhalten Sie das Abzeichen.
 
-#### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
+#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
 
-<div align="center"><a href="assets/steps-fa/README.starstruck-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-de/README.starstruck-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-fa/README.pair-extraordinaire-fa.md">
+<a href="assets/steps-de/README.pair-extraordinaire-de.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
 <hr>
 
-## چگونه پین Pair Extraordinaire را دریافت کنیم
+## So erhalten Sie den Pair Extraordinaire Erfolg
 
-### با ایجاد یک branch جدید میبایست یک pull request به همراه یک هم تیم (co-author) یک commit مشترک بزنید و آنرا به ریپازیتوری خود merge کنید
+### Sie können das Pair Extraordinaire-Abzeichen verdienen, indem Sie eine Pull-Anfrage mitverfassen, die dann zusammengeführt wird.
 
-#### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
+#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
 
-<div align="center"><a href="assets/steps-fa/README.pair-extraordinaire-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-de/README.pair-extraordinaire-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-fa/README.publicsponsor-fa.md">
+<a href="assets/steps-de/README.publicsponsor-de.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
 <hr>
 
-## چگونه پین Public Sponsor را دریافت کنیم
+## So erhalten Sie den Public Sponsor Erfolg
 
-### شما فقط باید به برخی از مشارکت کنندگان open course کمک مالی کنید.
+### Sie müssen nur eine Spende an einen Open-Source-Mitwirkenden leisten.
 
-#### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
+#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
 
-<div align="center"><a href="assets/steps-fa/README.publicsponsor-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-de/README.publicsponsor-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 
 <hr>
 
 <br>
 
-# پین های منتشر نشده⏳
+# Unveröffentlichte Erfolge ⏳
 
 <br>
 
@@ -201,9 +199,9 @@
 </div>
 <hr>
 
-## پین Heart On Your Sleeve
+## Heart On Your Sleeve
 
-### پین های دستاورد «Heart On Your Sleeve» در حال حاضر برای کاربران عمومی GitHub منتشر نشده است.
+### Die Heart On Your Sleeve-Erfolgsabzeichen werden derzeit noch nicht für öffentliche GitHub-Benutzer freigegeben.
 
 <hr>
 <br>
@@ -213,14 +211,14 @@
 </div>
 <hr>
 
-## پین Open Sourcerer
+## Open Sourcerer
 
-### پین های دستاورد Open Sourcerer در حال حاضر برای کاربران عمومی GitHub منتشر نشده است.
+### Die Open Sourcerer-Erfolgsabzeichen sind derzeit noch nicht für öffentliche GitHub-Benutzer freigegeben.
 
 <hr>
 <br>
 
-# پین هایی که دیگر قابل کسب نیستند ❌
+# Abzeichen können nicht mehr verdient werden ❌
 
 <br>
 
@@ -231,9 +229,9 @@
 </div>
 <hr>
 
-## پین Mars 2020 Contributor
+## Mars 2020 Contributor
 
-### این پین تنها به افرادی که در سال 2020 در یک سری پروژه های منتخب (لینوکس-بوت استرپ-آپاچی و...) مشارکت داشته اند داده شده بود
+### Beigesteuerter Code für ein Repository, das in der Hubschraubermission Mars 2020 verwendet wird
 
 <hr>
 
@@ -244,21 +242,21 @@
 </div>
 <hr>
 
-## پین Arctic Code Vault Contributor
+## Arctic Code Vault Contributor
 
-### این پین به اشخاصی که در سال 2021 به طور همزمان بر روی پنج پروژه در یک روز کار کرده اند و بر روی همه این پنج پروژه در یک روز کامیت خورده باشن . داده شده بود
+### Beigesteuerter Code zu einem Repository im GitHub Archive Program 2020
 
 <hr>
 
 <br>
 
-# رنگ پوست پین ها 👋
+# Leistung Hautton 👋
 
 <br>
 
-#### ظاهر برخی از دستاوردها به ترجیح رنگ پوست Emoji شما بستگی دارد.
+#### Das Aussehen einiger Erfolge hängt von Ihrer Emoji-Hauttonpräferenz ab.
 
-#### با رفتن به به این بخش میتوانید رتگ پوست دلخواه خود را تغییر دهید . [appearance settings](https://github.com/settings/appearance).
+#### Sie können Ihren bevorzugten Hautton ändern, indem Sie auf gehen [Darstellungseinstellungen](https://github.com/settings/appearance).
 
 <hr>
 
@@ -278,15 +276,13 @@
 
 <br>
 
-# اطلاعات بیشتر ℹ
+# Mehr Informationen ℹ
 
 <br>
 
-#### میتوانید اطلاعات بیشتری راجع به پیت های GitHub در این آدرس پیدا کنید [اطلاعات بیشتر](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+#### Weitere Informationen zu GitHub-Badges finden Sie darunter [Verknüpfung](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 <!-- </div> -->
 <br>
 
-####                  
-
-</div>
+####         
