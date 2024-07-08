@@ -1,6 +1,7 @@
 <!-- <div align="center"> -->
 
-## Sprache
+## Langue
+
 <div align="center">
 
 [![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)
@@ -15,8 +16,7 @@
 
 </div>
 
-
-# GitHub Erfolge 🏆
+# Réalisations GitHub 🏆
 
 <br>
 
@@ -33,162 +33,162 @@
 
 <br>
 
-# Erfolge & Anzeige 🏅
+# Comment obtenir les réalisations GitHub
 
-#### Achievements sind Pins, die GitHub als Belohnung für bestimmte Aktivitäten an Ihren GitHub-Account vergibt und die in Ihrem Profil zu sehen sind. Diese Errungenschaften verleihen Ihrem GitHub-Konto einen guten Effekt und können den Umfang Ihrer Aktivität und Ihre Aktivität anzeigen.
+## Dans ce cours, vous apprendrez étape par étape comment obtenir des réalisations GitHub.
 
-#### Sie können die Anzeige von Erfolgen in Ihrem Profil deaktivieren, indem Sie zu Ihrem gehen, [Profileinstellungen](https://github.com/settings).
+### Remarques :
 
-#### Hier zeigen wir Ihnen Schritt für Schritt, wie Sie GitHub Achievement Pins erhalten :)
+#### Remarque 1 : Si vous rencontrez des problèmes pour recevoir des réalisations, vous pouvez utiliser la formation étape par étape dans la section sur la façon de les recevoir.
 
-<br>
+#### Remarque 2 : Tous les tutoriels sont accompagnés de photos et chaque étape est entièrement expliquée.
 
-# So erhalten Sie GitHub-Erfolge
-
-## In diesem Kurs erfahren Sie Schritt für Schritt, wie Sie GitHub-Erfolge erzielen.
-
-### Hinweis:
-
-#### Hinweis 1: Wenn Sie Probleme beim Erhalt von Erfolgen haben, können Sie die Schritt-für-Schritt-Schulung im Abschnitt zum Erhalt dieser Erfolge nutzen.
-
-#### Hinweis 2: Alle Tutorials sind mit Fotos versehen und jeder Schritt wird ausführlich erklärt.
-
-#### Hinweis 3: Wenn Sie Probleme oder Fehler finden, wenden Sie sich bitte an uns [Bericht](https://github.com/4xmen/Get-Github-Achievements/issues/new) es uns. Und helfen Sie uns, den Kurs zu verbessern.
+#### Remarque 3 : Si vous trouvez un problème ou un bug, veuillez nous le [signaler](https://github.com/4xmen/Get-Github-Achievements/issues/new) .Et aidez-nous à améliorer le cours.
 
 <br>
 
-# Erfolgsliste 📃
+# Réalisations et affichage 🏅
+
+#### Les réalisations sont des épinglettes que GitHub donne à votre compte GitHub en récompense de certaines activités et peuvent être consultées dans votre profil. Ces réalisations donnent un bon effet à votre compte GitHub et peuvent indiquer le niveau de votre activité et votre niveau d'engagement.
+
+#### Vous pouvez choisir de ne pas afficher les réalisations sur votre profil en accédant aux paramètres de votre [profil](https://github.com/settings).
+
+#### Nous vous montrons ici comment obtenir l'épingle de réalisation GitHub étape par étape :)
+
+<br>
+
+# Liste des réalisations 📃
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-de/README.quickdraw-de.md">
+<a href="assets/steps-fr/README.quickdraw-fr.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
 <hr>
 
-## So erhalten Sie den Quickdraw-Erfolg
+## Comment obtenir la réalisation QuickDraw
 
-### Quickdraw hat eine der einfachsten Möglichkeiten, und Sie können es erhalten, indem Sie nur ein paar Schritte unternehmen. Um diesen Erfolg zu erhalten, müssen Sie . (Issue/Pull-Request innerhalb von 5 Minuten nach Eröffnung geschlossen)
+### QuickDraw est l'une des réalisations les plus faciles à obtenir. Vous pouvez la recevoir en ne faisant que quelques étapes. Pour obtenir cette réalisation, vous devez (fermer une issue/ une demande de fusion dans les 5 minutes suivant l'ouverture)
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
+#### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
-<div align="center"><a href="assets/steps-de/README.quickdraw-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-fr/README.quickdraw-fr.md"><img src="assets/img/btn-fr.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-de/README.yolo-de.md">
+<a href="assets/steps-fr/README.yolo-fr.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
 <hr>
 
-## So erhalten Sie den Yolo-Erfolg
+## Comment obtenir la réalisation Yolo
 
-### Yolo ist eine der schönsten Errungenschaften von Github, die Ihrem Github-Profil einen sehr schönen Effekt verleihen kann. Um diesen Erfolg zu erhalten, müssen Sie eine Pull-Anforderung ohne Überprüfung zusammenführen.
+### Yolo est l'une des réalisations les plus belles de Github, qui peut donner un effet très beau à votre profil Github. Pour obtenir cette réalisation, vous devez fusionner une demande de fusion sans examen préalable.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
+#### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
-<div align="center"><a href="assets/steps-de/README.yolo-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-fr/README.yolo-fr.md"><img src="assets/img/btn-fr.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-de/README.galaxy-brain-de.md">
+<a href="assets/steps-fr/README.galaxy-brain-fr.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
 <hr>
 
-## So erhalten Sie den Galaxy Brain Erfolg
+## Comment obtenir la réalisation Cerveau galactique
 
-### Galaxy Brain zu bekommen ist schwieriger als die beiden vorherigen Erfolge. Und um es zu erhalten, müssen Sie die Schritte durchlaufen, die Sie für andere GitHub-Benutzer benötigen. Sie müssen: eine Diskussion beantwortet haben (eine akzeptierte Antwort erhalten haben)
+### Obtenir la réalisation Cerveau galactique est plus difficile que les deux réalisations précédentes. Et pour la recevoir, vous devez passer par les étapes que vous avez besoin d'autres utilisateurs GitHub. Vous devez : répondre à une discussion (obtenir une réponse acceptée deux fois).
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
+#### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
-<div align="center"><a href="assets/steps-de/README.galaxy-brain-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-fr/README.galaxy-brain-fr.md"><img src="assets/img/btn-fr.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-de/README.pull-shark-de.md">
+<a href="assets/steps-fr/README.pull-shark-fr.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
 <hr>
 
-## So erhalten Sie den Pull Shark Erfolg
+## Comment obtenir la réalisation Pull Shark
 
-### Um Pull Shark zu erhalten, müssen Sie 2 zusammengeführte Pull-Anforderungen stellen, Sie erhalten das One Pull Shark-Abzeichen.
+### Pour obtenir Pull Shark, vous devez effectuer 2 demandes de fusion fusionnées, vous obtiendrez un badge Pull Shark.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
+#### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
-<div align="center"><a href="assets/steps-de/README.pull-shark-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-fr/README.pull-shark-fr.md"><img src="assets/img/btn-fr.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-de/README.starstruck-de.md">
+<a href="assets/steps-fr/README.starstruck-fr.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
 <hr>
 
-## So erhalten Sie den Starstruck-Erfolg
+## Comment obtenir la réalisation Starstruck
 
-### Es ist zu einfach, Starstruck Achievement zu erhalten, und Sie haben nur wenige Schritte, um Starstruck zu erhalten. Sie können diese Errungenschaft erhalten, wenn ein Repository auf Ihrem Konto 16 Sterne erreicht, selbst wenn es übertragen wurde, erhalten Sie das Abzeichen.
+### C'est trop simple pour obtenir la réalisation Starstruck et vous avez quelques étapes à suivre pour l'obtenir. Vous pouvez obtenir cette réalisation lorsqu'un référentiel de votre compte atteint 16 étoiles, même s'il a été transféré, vous recevrez le badge.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
+#### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
-<div align="center"><a href="assets/steps-de/README.starstruck-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-fr/README.starstruck-fr.md"><img src="assets/img/btn-fr.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-de/README.pair-extraordinaire-de.md">
+<a href="assets/steps-fr/README.pair-extraordinaire-fr.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
 <hr>
 
-## So erhalten Sie den Pair Extraordinaire Erfolg
+## Comment obtenir la réalisation Pair Extraordinaire
 
-### Sie können das Pair Extraordinaire-Abzeichen verdienen, indem Sie eine Pull-Anfrage mitverfassen, die dann zusammengeführt wird.
+### Vous pouvez gagner le badge de la paire extraordinaire en co-écrivant une demande de fusion qui est ensuite fusionnée.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
+#### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
-<div align="center"><a href="assets/steps-de/README.pair-extraordinaire-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-fr/README.pair-extraordinaire-fr.md"><img src="assets/img/btn-fr.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-de/README.publicsponsor-de.md">
+<a href="assets/steps-fr/README.publicsponsor-fr.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
 <hr>
 
-## So erhalten Sie den Public Sponsor Erfolg
+## Comment obtenir la réalisation Public Sponsor
 
-### Sie müssen nur eine Spende an einen Open-Source-Mitwirkenden leisten.
+### Vous devez simplement faire un don à un contributeur open source.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
+#### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
-<div align="center"><a href="assets/steps-de/README.publicsponsor-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-fr/README.publicsponsor-fr.md"><img src="assets/img/btn-fr.png" alt=""></a></div>
 
 <hr>
 
 <br>
 
-# Unveröffentlichte Erfolge ⏳
+# Réalisations non publiées ⏳
 
 <br>
 
@@ -201,7 +201,7 @@
 
 ## Heart On Your Sleeve
 
-### Die Heart On Your Sleeve-Erfolgsabzeichen werden derzeit noch nicht für öffentliche GitHub-Benutzer freigegeben.
+### Le badge de réalisation "Heart On Your Sleeve" n'est pas encore publié pour les utilisateurs de GitHub publics pour le moment.
 
 <hr>
 <br>
@@ -213,12 +213,12 @@
 
 ## Open Sourcerer
 
-### Die Open Sourcerer-Erfolgsabzeichen sind derzeit noch nicht für öffentliche GitHub-Benutzer freigegeben.
+### Le badge de réalisation "Open Sourcerer" n'est pas encore publié pour les utilisateurs de GitHub publics pour le moment.
 
 <hr>
 <br>
 
-# Abzeichen können nicht mehr verdient werden ❌
+# Badges non gagnables ❌
 
 <br>
 
@@ -229,9 +229,9 @@
 </div>
 <hr>
 
-## Mars 2020 Contributor
+## Contributeur Mars 2020
 
-### Beigesteuerter Code für ein Repository, das in der Hubschraubermission Mars 2020 verwendet wird
+### A contribué du code à un référentiel utilisé dans la mission de l'hélicoptère Mars 2020.
 
 <hr>
 
@@ -242,33 +242,33 @@
 </div>
 <hr>
 
-## Arctic Code Vault Contributor
+## Contributeur de l'Arctic Code Vault
 
-### Beigesteuerter Code zu einem Repository im GitHub Archive Program 2020
+### A contribué du code à un référentiel dans le cadre du programme d'archivage de GitHub en 2020.
 
 <hr>
 
 <br>
 
-# Leistung Hautton 👋
+# Couleur de peau de réalisation 👋
 
 <br>
 
-#### Das Aussehen einiger Erfolge hängt von Ihrer Emoji-Hauttonpräferenz ab.
+#### L'apparence de certaines réalisations dépend de votre préférence de couleur de peau Emoji.
 
-#### Sie können Ihren bevorzugten Hautton ändern, indem Sie auf gehen [Darstellungseinstellungen](https://github.com/settings/appearance).
+#### Vous pouvez modifier votre couleur de peau préférée en accédant aux [paramètres d'apparence](https://github.com/settings/appearance).
 
 <hr>
 
 <div align="center">
 <img src="assets/badges/Starstruck.png" width="150" alt="">
-<h4>Starstuck Skin Tone Versions</h4>
+<h4>Versions de tons de peau Starstuck</h4>
 <img src="assets/badges/starstuck-skins.png" alt="">
 </div>
 
 <div align="center">
 <img src="assets/badges/Quickdraw.png" width="150" alt="">
-<h4>Quikdraw Skin Tone Versions</h4>
+<h4>Versions Quikdraw Skin Tone</h4>
 <img src="assets/badges/quickdraw-skin.png" alt="">
 </div>
 
@@ -276,13 +276,15 @@
 
 <br>
 
-# Mehr Informationen ℹ
+# Plus d'informations ℹ
 
 <br>
 
-#### Weitere Informationen zu GitHub-Badges finden Sie darunter [Verknüpfung](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+#### Vous pouvez trouver plus d'informations sur les badges GitHub sous ce [lien](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 <!-- </div> -->
 <br>
 
-####         
+####          
+
+
