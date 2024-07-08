@@ -1,6 +1,6 @@
 <!-- <div align="center"> -->
 
-## Язык
+## Language
 
 <div align="center">
 
@@ -10,13 +10,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![de](https://img.shields.io/badge/Lang-Deutsch-yellow.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.de.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![fr](https://img.shields.io/badge/Lang-French-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fr.md)
+[![fr](https://img.shields.io/badge/Lang-french-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fr.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![ru](https://img.shields.io/badge/Lang-Russian-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ru.md)
+[![tr](https://img.shields.io/badge/Lang-Turkish-red.svg)](https://github.com/emreyunusbas/Get-Github-Achievements/blob/main/README.tr.md)
 
 </div>
 
-# Достижения на GitHub 🏆
+# GitHub Başarıları 🏆
 
 <br>
 
@@ -33,162 +33,162 @@
 
 <br>
 
-# Как получить достижения GitHub
+# GitHub Başarıları Nasıl Kazanılır
 
-## В этом курсе вас шаг за шагом научат, как получать достижения GitHub.
+## Bu eğitimde GitHub başarılarını nasıl elde edeceğiniz adım adım öğretilecektir.
 
-### Примечания:
+### Notlar:
 
-#### Примечание 1: Если у вас возникли проблемы с получением достижений, вы можете воспользоваться пошаговым обучением в разделе, как их получить.
+#### Not 1: Başarıları almakta sorun yaşıyorsanız, nasıl alacağınızla ilgili bölümdeki adım adım eğitimi kullanabilirsiniz.
 
-#### Примечание 2: Все уроки снабжены фотографиями, и каждый шаг полностью объяснен.
+#### Not 2: Tüm eğitimler fotoğraflıdır ve her adım tam olarak açıklanmıştır.
 
-#### Примечание 3: Если вы обнаружите какие-либо проблемы или ошибки, пожалуйста, [отчет](https://github.com/4xmen/Get-Github-Achievements/issues/new) это нам. И помогите нам улучшить курс.
-
-<br>
-
-# Достижения и дисплей 🏅
-
-#### Достижения — это булавки, которые GitHub дает вашей учетной записи GitHub в качестве награды за определенные действия и которые можно увидеть в вашем профиле. Эти достижения дают хороший эффект для вашей учетной записи GitHub и могут указывать на количество вашей активности и то, насколько вы активны.
-
-#### Вы можете отказаться от отображения достижений в своем профиле, перейдя в [настройки профиля](https://github.com/settings).
-
-#### Здесь мы покажем вам, как шаг за шагом получить значок достижения GitHub :)
+#### Not 3: Herhangi bir sorun veya hata bulursanız, lütfen bize [rapor edin] (https://github.com/4xmen/Get-Github-Achievements/issues/new). Ve kursu geliştirmemize yardımcı olun.
 
 <br>
 
-# Послужной список 📃
+# Başarılar & Sergileme 🏅
+
+#### Başarılar, GitHub'ın belirli etkinlikler için ödül olarak GitHub hesabınıza verdiği ve profilinizde görülebilen pinlerdir. Bu başarılar GitHub hesabınıza iyi bir etki verir ve etkinliğinizin miktarını ve ne kadar aktif olduğunuzu gösterebilir.
+
+#### Profil ayarlarınıza] (https://github.com/settings) giderek profilinizde başarıların görüntülenmesini devre dışı bırakabilirsiniz.
+
+#### Burada size GitHub Başarı pinlerini adım adım nasıl alacağınızı gösteriyoruz :)
+
+<br>
+
+# Başarı Listesi 📃
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-ru/README.quickdraw-ru.md">
+<a href="assets/steps-tr/README.quickdraw-tr.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
 <hr>
 
-## Как получить достижение Quickdraw
+## Quickdraw Başarısı Nasıl Elde Edilir ?
 
-### Quickdraw имеет один из самых простых способов получить . и вы можете получить его, всего лишь сделав несколько шагов. Чтобы получить это достижение, вы должны . (закрыли проблему / запрос на включение в течение 5 минут после открытия)
+### Quickdraw, elde etmenin en kolay yolu olan başarıma sahiptir ve sadece birkaç basit adımı izleyerek elde edebilirsiniz. Bu başarımı elde etmek için yapmanız gerekenler (bir issue/pull talebini açtıktan sonra 5 dakika içinde kapatmak)
 
-#### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
+#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
 
-<div align="center"><a href="assets/steps-ru/README.quickdraw-ru.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-tr/README.quickdraw-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-ru/README.yolo-ru.md">
+<a href="assets/steps-tr/README.yolo-tr.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
 <hr>
 
-## Как получить достижение Yolo
+## Yolo Başarısı Nasıl Alınır?
 
-### Yolo — одно из самых красивых достижений Github, которое может придать вашему профилю на Github очень красивый эффект. Чтобы получить это достижение, вам нужно слить пулл-реквест без проверки.
+### Yolo, Github profilinize çok güzel bir etki verebilecek Github'ın en güzel başarılarından biridir. Bu başarımı elde etmek için, bir inceleme olmadan bir çekme isteğini birleştirmeniz gerekir.
 
-#### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
+#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
 
-<div align="center"><a href="assets/steps-ru/README.yolo-ru.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-tr/README.yolo-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-ru/README.galaxy-brain-ru.md">
+<a href="assets/steps-tr/README.galaxy-brain-tr.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
 <hr>
 
-## Как получить достижение Galaxy Brain
+## Galaxy Brain Başarısı Nasıl Elde Edilir
 
-### Получить Galaxy Brain сложнее, чем два предыдущих достижения. А чтобы его получить, нужно пройти шаги, которые нужны другим пользователям GitHub. Вам необходимо: Ответить на обсуждение (получить принятый ответ два раза)
+### Galaxy Brain'i elde etmek önceki iki başarıdan daha zordur. Ve onu almak için, diğer GitHub kullanıcılarının ihtiyaç duyduğu adımlardan geçmeniz gerekir. Yapmanız gerekenler Bir tartışmaya cevap vermek ve (iki kez kabul edilen bir cevap almak)
 
-#### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
+#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
 
-<div align="center"><a href="assets/steps-ru/README.galaxy-brain-ru.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-tr/README.galaxy-brain-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-ru/README.pull-shark-ru.md">
+<a href="assets/steps-tr/README.pull-shark-tr.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
 <hr>
 
-## Как получить достижение Pull Shark
+## Pull Shark Başarısı Nasıl Elde Edilir
 
-### Чтобы получить пулл-акулу, вам нужно сделать 2 объединённых пулл-реквеста, вы получите значок одной пулл-акулы.
+### Pull shark almak için 2 birleştirilmiş pull request yapmanız gerekir, bir pull shark rozeti alırsınız.
 
-#### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
+#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
 
-<div align="center"><a href="assets/steps-ru/README.pull-shark-ru.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-tr/README.pull-shark-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-ru/README.starstruck-ru.md">
+<a href="assets/steps-tr/README.starstruck-tr.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
 <hr>
 
-## Как получить достижение Starstruck
+## Starstruck Başarısı Nasıl Elde Edilir
 
-### Получить достижение Starstruck слишком просто, и у вас есть несколько шагов, чтобы получить Starstruck. Вы можете получить это достижение, когда репозиторий на вашей учетной записи наберет 16 звезд, даже если он был перенесен, вы получите значок.
+### Starstruck başarımını elde etmek çok kolay & Starstruck'ı elde etmek için sadece birkaç adımı takip etmeniz gerekiyor. Hesabınızdaki bir depo 16 yıldıza ulaştığında bu başarımı elde edebilirsiniz, transfer edilmiş olsa bile rozeti alacaksınız.
 
-#### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
+#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
 
-<div align="center"><a href="assets/steps-ru/README.starstruck-ru.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-tr/README.starstruck-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-ru/README.pair-extraordinaire-ru.md">
+<a href="assets/steps-tr/README.pair-extraordinaire-tr.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
 <hr>
 
-## Как получить достижение Pair Extraordinaire
+## Pair Extraordinaire Başarısı Nasıl Elde Edilir
 
-### Вы можете заработать значок пары экстраординарных, создав совместно запрос на вытягивание, который затем будет объединен.
+### Daha sonra birleştirilen bir çekme isteğine ortak yazarlık yaparak Pair Extraordinary rozetini kazanabilirsiniz.
 
-#### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
+#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
 
-<div align="center"><a href="assets/steps-ru/README.pair-extraordinaire-ru.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-tr/README.pair-extraordinaire-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-ru/README.publicsponsor-ru.md">
+<a href="assets/steps-tr/README.publicsponsor-tr.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
 <hr>
 
-## How to Get Public Sponsor Achievement
+## Public Sponsor Başarısı Nasıl Elde Edilir
 
-### You just need to make a donation to some open source contributor.
+### Tek yapmanız gereken açık kaynaklara katkıda bulunan birine bağış yapmak.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
 
-<div align="center"><a href="assets/steps-ru/README.publicsponsor-ru.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-tr/README.publicsponsor-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
 
 <hr>
 
 <br>
 
-# Неизданные достижения ⏳
+# Yayınlanmamış Başarımlar ⏳
 
 <br>
 
@@ -199,9 +199,9 @@
 </div>
 <hr>
 
-## Сердце на рукаве
+## Heart On Your Sleeve
 
-### На данный момент значки достижений «Сердце на рукаве» еще не выпущены для общедоступных пользователей GitHub.
+### 'Heart On Your Sleeve' başarı rozetleri henüz herkese açık GitHub kullanıcıları için yayınlanmadı.
 
 <hr>
 <br>
@@ -211,14 +211,14 @@
 </div>
 <hr>
 
-## Разработчик открытого исходного кода
+## Open Sourcerer
 
-### На данный момент значки достижений «Открытый источник» еще не выпущены для общедоступных пользователей GitHub.
+### 'Open Sourcerer' başarı rozetleri henüz genel GitHub kullanıcıları için yayınlanmadı.
 
 <hr>
 <br>
 
-# Значки больше нельзя заработать ❌
+# Artık kazanılması mümkün olmayan rozetler ❌
 
 <br>
 
@@ -229,9 +229,9 @@
 </div>
 <hr>
 
-## Участник Марса 2020
+## Mars 2020 Contributor
 
-### Внес код в репозиторий, используемый в вертолетной миссии Mars 2020.
+### Mars 2020 Helikopter Görevinde kullanılan bir depoya kod katkısında bulunmak
 
 <hr>
 
@@ -242,33 +242,33 @@
 </div>
 <hr>
 
-## Автор Arctic Code Vault
+## Arctic Code Vault Contributor
 
-### Внес код в репозиторий в программе GitHub Archive Program 2020.
+### GitHub 2020 Arşiv Programındaki bir depoya kod katkısında bulunmak
 
 <hr>
 
 <br>
 
-# Тон кожи достижения 👋
+# Başarılar için ten rengi tonları 👋
 
 <br>
 
-#### Внешний вид некоторых достижений зависит от вашего предпочтения тона кожи эмодзи.
+#### Bazı başarıların görünümü Emoji Cilt Tonu Tercihinize bağlıdır.
 
-#### Внешний вид некоторых достижений зависит от вашего предпочтения тона кожи эмодзи. [настройки внешнего вида](https://github.com/settings/appearance).
+#### Tercih ettiğiniz Ten Tonunu [appearance settings] (görünüm ayarları) (https://github.com/settings/appearance) bölümüne giderek değiştirebilirsiniz.
 
 <hr>
 
 <div align="center">
 <img src="assets/badges/Starstruck.png" width="150" alt="">
-<h4>Starstuck Skin Tone Versions</h4>
+<h4>Starstuck Cilt Tonu Versiyonları</h4>
 <img src="assets/badges/starstuck-skins.png" alt="">
 </div>
 
 <div align="center">
 <img src="assets/badges/Quickdraw.png" width="150" alt="">
-<h4>Quikdraw Skin Tone Versions</h4>
+<h4>Quikdraw Cilt Tonu Versiyonları</h4>
 <img src="assets/badges/quickdraw-skin.png" alt="">
 </div>
 
@@ -276,15 +276,16 @@
 
 <br>
 
-# Больше информации ℹ
+# Daha fazla bilgi için ℹ
 
 <br>
 
-#### Дополнительную информацию о значках GitHub можно найти в этом разделе. [связь](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+#### GitHub Rozetleri hakkında daha fazla bilgiyi bu [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile) altında bulabilirsiniz.
+
 
 <!-- </div> -->
 <br>
 
-####           
+####          
 
 
