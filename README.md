@@ -1,64 +1,292 @@
-<h1 align="center"> </❤ kanvekin>  
- <img href="https://discord.com/users/1205213532271153153" src="https://readme-typing-svg.herokuapp.com/?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=For+%F0%9F%93%A9+Support+And+%F0%9F%93%9E+Communication;Contact+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+kanvekin" alt="kanvekin Was Here" />
-</h1>
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
-<p align="center">
- <a align="center" href="https://discord.com/users/1205213532271153153" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a align="center" href="https://www.github.com/x82x" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a align="center" href="https://open.spotify.com/user/myhvzbqbdjguoad7hs6c510zd" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a align="center" href="https://www.instagram.com/kaanseas" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<br> </br>
- 
+<!-- <div align="center"> -->
 
- <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Langauge's+%26+Tool's" alt="Typing SVG" /></h2>
- <h2 align="center">
- <img src="https://skillicons.dev/icons?i=cs,js,ts,lua,html,css,nodejs,mysql,sqlite,mongo,redis&theme=dark" />
- </h2>
-  <h2 align="center">
- <img src="https://skillicons.dev/icons?i=nest,dotnet,express,gitlab,postman,powershell,regex,stackoverflow,vscode,visualstudio,atom&theme=dark" />
-  </h2>
- 
- 
-  <h2 align="center">
- <img align="center" alt="Yarn" width="40px" src="https://cdn.discordapp.com/emojis/1077712529301721149.png?size=128&quality=lossless" />
- <img align="center" alt="ChartJS" width="40px" src="https://cdn.discordapp.com/emojis/1077714784335700058.png?size=128&quality=lossless" />
- <img align="center" alt="Json" width="40px" src="https://cdn.discordapp.com/emojis/1077716034234097744.webp?size=128&quality=lossless" />
- </h2>
-</br>
+<div dir="rtl">
 
-<h1 align="center"><b>Hi , I'm Kaanseas </h1>
+## زبان
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Web+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+<div align="center">
 
+[![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![fa](https://img.shields.io/badge/Lang-Persian-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fa.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![de](https://img.shields.io/badge/Lang-Deutsch-yellow.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.de.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![fr](https://img.shields.io/badge/Lang-French-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fr.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![ru](https://img.shields.io/badge/Lang-Russian-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ru.md)
+
+</div>
+
+# پین های گیت هاب 🏆
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=maflexkaanseas&label=Profile+Visits)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png">
+    <img src="assets/Github-Logo.png" alt="Github-Logo">
+  </picture><br>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png">
+    <img width="50%" src="assets/Github-Text.png" alt="Github-Text">
+  </picture>
+</div>
 
-<br> </br>
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/kanvekin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a></h2>
-## <picture><img src = "https://cdn.discordapp.com/emojis/1255350229620887654.webp?size=96&quality=lossless" width = 50px></picture> **About me**
+<br>
 
-- A passionate Self-taught Web Developer
-- Playing DDraceNetwork at spare time
-- Currently learning Unreal Engine
-- Personal website [link](https://www.unsterblich.com.tr/)
-- I'm currently open for a business opportunity and partnership
+# چگونه پین های گیت هاب را دریافت کنیم
 
-<br><br>
+## در این آموزش به شما مرحله به مرحله, آموزش گرفتن پین های گیت هاب آموزش داده میشود
 
+### نکته ها:
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
+#### نکته 1: آموزش ها به در صفحه فعلی به صورت کلیات به شما داده میشود, در صورتی که آموزش بیشتر و تصویری نیاز بود. حتما بر روی دکمه نحوه دریافت در انتهای هر بخش کلیک کرده به صفحه آموزش قدم به قدم بروید.
 
-<h2 align="center">
- <a href="https://discord.com/users/1205213532271153153"><img  width="400px" src="https://lanyard.kyrie25.me/api/1206652090152255499?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=discord.gg/82"></a>
-<a href="https://discord.com/users/1205211762904006737"><img  width="400px" src="https://lanyard.kyrie25.me/api/1205211762904006737?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=discord.gg/82"></a>
-<br> </br>
- 
+#### نکته 2: آموزش دریافت پین های گیت هاب, به صورت تصویری و قدم به قدم میباشد.
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=kanvekin&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanvekin&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
+#### نکته 3: در صورتی که درقسمت مشکل و ایرادی پیدا کردید و نیاز به تغییر در هر بخشی شاهد بودید لطفا آنرا به ما [گزارش](https://github.com/4xmen/Get-Github-Achievements/issues/new) کنید و مارا در بهبود هر چه بیشتر این کورس یاری کنید.
+
+<br>
+
+# پین ها و تنظیمات نمایش آن 🏅
+
+#### دستاورد ها پین هایی هستند که گیت هاب به نسبت فعالیت هایی خاص به عنوان جایزه به اکانت گیت هاب شما اهدا میکند و در پروفایلتان قابل رویت است این دستاورد ها جلوه مناسبی به اکانت گیت هاب شما میدهد و میتواند نشانگر میزان فعالیت شما و چگونگی فعالیت شما باشد .
+
+#### می‌توانید با رفتن به [تنظیمات نمایه](https://github.com/settings) خود از نمایش دستاوردها در نمایه خود انصراف دهید.
+
+#### در اینجا ما به شما نشان می دهیم که چگونه پین ​​دستاورد GitHub را گام به گام دریافت کنید :)
+
+<br>
+
+# لیست پین ها 📃
+
+<br>
+
+<div align="center"  >
+<a href="assets/steps-fa/README.quickdraw-fa.md">
+<img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
+</a>
+</div>
+<hr>
+
+## چگونه پین Quickdraw را دریافت کنیم
+
+### این پین یکی از ساده ترین راه ها را برای دریافت دارد. و فقط با چند قدم می توانید آن را دریافت کنید. برای به دست آوردن این دستاورد باید . (بستن یک issue یا pull request را ظرف 5 دقیقه پس از باز کردن بست)
+
+#### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
+
+<div align="center"><a href="assets/steps-fa/README.quickdraw-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<hr>
+
+<br>
+
+<div align="center"  >
+<a href="assets/steps-fa/README.yolo-fa.md">
+<img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
+</a>
+</div>
+<hr>
+
+## چگونه پین Yolo را دریافت کنیم
+
+### این پین یکی از زیباترین پین های Github است که می تواند جلوه بسیار زیبایی به پروفایل Github شما بدهد. برای دریافت این پین، باید یک Pull Request را بدون بازبینی(ًReview) ادغام کنید.
+
+#### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
+
+<div align="center"><a href="assets/steps-fa/README.yolo-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<hr>
+
+<br>
+
+<div align="center"  >
+<a href="assets/steps-fa/README.galaxy-brain-fa.md">
+<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
+</a>
+</div>
+<hr>
+
+## چگونه پین Galaxy Brain را دریافت کنیم
+
+### دریافت Galaxy Brain نسبت به دو دستاورد قبلی دشوارتر است. و برای دریافت آن باید مراحلی را طی کنید که به سایر کاربران گیت هاب نیاز دارید. شما باید: به یک بحث پاسخ دهید (باید پاسخ شما به عنوان پاسخ به سوال توسط پرسشگر سوال دو مرتبه انتخاب شود.)
+
+#### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
+
+<div align="center"><a href="assets/steps-fa/README.galaxy-brain-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<hr>
+
+<br>
+
+<div align="center"  >
+<a href="assets/steps-fa/README.pull-shark-fa.md">
+<img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
+</a>
+</div>
+<hr>
+
+## چگونه پین Pull Shark را دریافت کنیم
+
+### برای گرفتن پین pull shark باید 2 درخواست کشش ( Pull Request ) ادغام شده داشته باشید.
+
+#### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
+
+<div align="center"><a href="assets/steps-fa/README.pull-shark-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<hr>
+
+<br>
+
+<div align="center"  >
+<a href="assets/steps-fa/README.starstruck-fa.md">
+<img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
+</a>
+</div>
+<hr>
+
+## چگونه پین Starstruck را دریافت کنیم
+
+### دریافت Starstruck بسیار ساده است و مراحل کمی برای دریافت Starstruck دارید. شما می توانید این دستاورد را زمانی دریافت کنید که یک مخزن در حساب شما به 16 ستاره برسد.
+
+#### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
+
+<div align="center"><a href="assets/steps-fa/README.starstruck-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<hr>
+
+<br>
+
+<div align="center"  >
+<a href="assets/steps-fa/README.pair-extraordinaire-fa.md">
+<img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
+</a>
+</div>
+<hr>
+
+## چگونه پین Pair Extraordinaire را دریافت کنیم
+
+### با ایجاد یک branch جدید میبایست یک pull request به همراه یک هم تیم (co-author) یک commit مشترک بزنید و آنرا به ریپازیتوری خود merge کنید
+
+#### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
+
+<div align="center"><a href="assets/steps-fa/README.pair-extraordinaire-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<hr>
+
+<br>
+
+<div align="center"  >
+<a href="assets/steps-fa/README.publicsponsor-fa.md">
+<img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
+</a>
+</div>
+<hr>
+
+## چگونه پین Public Sponsor را دریافت کنیم
+
+### شما فقط باید به برخی از مشارکت کنندگان open course کمک مالی کنید.
+
+#### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
+
+<div align="center"><a href="assets/steps-fa/README.publicsponsor-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+
+<hr>
+
+<br>
+
+# پین های منتشر نشده⏳
+
+<br>
+
+<div align="center"  >
+<a href="">
+<img width="296" src="assets/badges/HeartOnYourSleeve.png" alt="HeartOnYourSleeve-Pin">
+</a>
+</div>
+<hr>
+
+## پین Heart On Your Sleeve
+
+### پین های دستاورد «Heart On Your Sleeve» در حال حاضر برای کاربران عمومی GitHub منتشر نشده است.
+
+<hr>
+<br>
+
+<div align="center"  >
+<img width="296" src="assets/badges/OpenSourcerer.png" alt="OpenSourcerer-Pin">
+</div>
+<hr>
+
+## پین Open Sourcerer
+
+### پین های دستاورد Open Sourcerer در حال حاضر برای کاربران عمومی GitHub منتشر نشده است.
+
+<hr>
+<br>
+
+# پین هایی که دیگر قابل کسب نیستند ❌
+
+<br>
+
+<div align="center"  >
+<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">
+<img width="296" src="assets/badges/Mars-2020-Contributor.png" alt="Mars 2020 Contributor">
+</a>
+</div>
+<hr>
+
+## پین Mars 2020 Contributor
+
+### این پین تنها به افرادی که در سال 2020 در یک سری پروژه های منتخب (لینوکس-بوت استرپ-آپاچی و...) مشارکت داشته اند داده شده بود
+
+<hr>
+
+<div align="center"  >
+<a href="https://archiveprogram.github.com/">
+<img width="296" src="assets/badges/Arctic-Code-Vault-Contributor.png" alt="Mars 2020 Contributor">
+</a>
+</div>
+<hr>
+
+## پین Arctic Code Vault Contributor
+
+### این پین به اشخاصی که در سال 2021 به طور همزمان بر روی پنج پروژه در یک روز کار کرده اند و بر روی همه این پنج پروژه در یک روز کامیت خورده باشن . داده شده بود
+
+<hr>
+
+<br>
+
+# رنگ پوست پین ها 👋
+
+<br>
+
+#### ظاهر برخی از دستاوردها به ترجیح رنگ پوست Emoji شما بستگی دارد.
+
+#### با رفتن به به این بخش میتوانید رتگ پوست دلخواه خود را تغییر دهید . [appearance settings](https://github.com/settings/appearance).
+
+<hr>
+
+<div align="center">
+<img src="assets/badges/Starstruck.png" width="150" alt="">
+<h4>Starstuck Skin Tone Versions</h4>
+<img src="assets/badges/starstuck-skins.png" alt="">
+</div>
+
+<div align="center">
+<img src="assets/badges/Quickdraw.png" width="150" alt="">
+<h4>Quikdraw Skin Tone Versions</h4>
+<img src="assets/badges/quickdraw-skin.png" alt="">
+</div>
+
+<hr>
+
+<br>
+
+# اطلاعات بیشتر ℹ
+
+<br>
+
+#### میتوانید اطلاعات بیشتری راجع به پیت های GitHub در این آدرس پیدا کنید [اطلاعات بیشتر](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+
+<!-- </div> -->
+<br>
+
+####                  
+
+</div>
