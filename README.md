@@ -26,28 +26,37 @@
  </h2>
 </br>
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
-<h2 align="center">
-<a href="https://discord.gg/82" target="_blank"><img align="center" alt="maflex1337" width="80px" src="https://cdn.discordapp.com/emojis/1255350229620887654.webp?size=96&quality=lossless" /> </a>
-</h2>
-</br>
+<h1 align="center"><b>Hi , I'm Kaanseas </h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Web+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
-<h2 align="center">
-<img width="50%" src="https://count.getloli.com/get/@:kanvekin?theme=rule34">
+<br>
+
+![](https://komarev.com/ghpvc/?username=maflexkaanseas&label=Profile+Visits)
+
 <br> </br>
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/kanvekin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
-</h2>
+<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/kanvekin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a></h2>
+## <picture><img src = "https://cdn.discordapp.com/emojis/1255350229620887654.webp?size=96&quality=lossless" width = 50px></picture> **About me**
+
+- A passionate Self-taught Web Developer
+- Playing DDraceNetwork at spare time
+- Currently learning Unreal Engine
+- Personal website [link](https://www.unsterblich.com.tr/)
+- I'm currently open for a business opportunity and partnership
+
+<br><br>
 
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
 <h2 align="center">
  <a href="https://discord.com/users/1205213532271153153"><img  width="400px" src="https://lanyard.kyrie25.me/api/1206652090152255499?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Kan+Ve+Kin"></a>
-<a href="https://discord.com/users/1205211762904006737"><img  width="400px" src="https://lanyard.kyrie25.me/api/1205211762904006737?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness"></a>
+<a href="https://discord.com/users/1205211762904006737"><img  width="400px" src="https://lanyard.kyrie25.me/api/1205211762904006737?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Kan+Ve+Kin"></a>
 <br> </br>
- <a href="https://open.spotify.com/user/myhvzbqbdjguoad7hs6c510zd" align="center"> <img align="center" src="https://svg.yalin.app/vwuht447wffml59xtfokakivv"></a>
+ 
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 <p align="center">
